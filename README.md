@@ -27,10 +27,13 @@ The model integrates **explainable AI methods** to highlight biologically meanin
    - Used **saliency maps** and **integrated gradients** to identify key amino acids influencing predictions.
   
 4. **Overall Architecture**
-   ![Figure](HIVP Method.png)
+   ![Figure](HIVP.png)
 
 5. **Model**
-   ![Figure](LLM.png)
+   <p align="center">
+  <img src="LLM.png" alt="Figure 7" width="400"/>
+</p>
+  
 
 ---
 
